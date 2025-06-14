@@ -1,8 +1,10 @@
 //calcul somme pour ALix
-float somme (float n1, n2){
-float s;
 main{
-    s=n1+n2;
+    s=0
+    for(i=0, i<n, i++){
+        s=s+tabf [i].montant
+    }
 }
-}
-return s;
+   printf<"\nla somme est: s">
+
+
